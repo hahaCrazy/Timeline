@@ -1,0 +1,10 @@
+{
+    "name": "EZhex1991.EZPhysicsBone.Editor",
+    "references": [
+        "EZhex1991.EZPhysicsBone"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
